@@ -1,6 +1,6 @@
-const learnyounode = require('workshopper-adventure')({
+const learnyounode = require('workshopper-adventure-hu')({
   appDir: __dirname,
-  languages: ['en', 'es', 'fr', 'ja', 'zh-cn', 'zh-tw', 'pt-br', 'ru', 'uk', 'vi', 'ko', 'nb-no', 'it'],
+  languages: ['hu', 'en', 'es', 'fr', 'ja', 'zh-cn', 'zh-tw', 'pt-br', 'ru', 'uk', 'vi', 'ko', 'nb-no', 'it'],
   header: require('workshopper-adventure/default/header'),
   footer: require('workshopper-adventure/default/footer'),
   fail: require('workshopper-adventure/default/fail'),
