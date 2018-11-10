@@ -1,6 +1,6 @@
 Ez a problema megegyezik az elozovel de bevezeti a **modulok** fogalmat. Ket fajlt kell letrehoznod.
 
-Keszits egy programot ami megjeleniti a fajlokat egy megadott konyvtarban kiterjesztesuk szerint szurve. A konyvtar neve a program elso parametere, a masodik pedig a fajl kiterjesztes ami szerint szurni kell. Jelenitsd meg a fajlok nevet soronkent a konzolon. *Hasznalj** aszinkron I/O muveletet.
+Keszits egy programot ami megjeleniti a fajlokat egy megadott konyvtarban kiterjesztesuk szerint szurve. A konyvtar neve a program elso parametere, a masodik pedig a fajl kiterjesztes ami szerint szurni kell. Jelenitsd meg a fajlok nevet soronkent a konzolon. *Hasznalj* aszinkron I/O muveletet.
 
 Keszits egy *modul* fajlt, ami megcsinalja a feladat nagy reszet. A modulnak exportalni kell egy fuggvenyt ami **harom** argumentumot kap: a konyvtar nevet, a fajl kiterjesztest es egy callback fuggvenyt, ebben a sorrendben. Ne modositsd a fajl kiterjesztest mielott atadod a modulodnak.
 
