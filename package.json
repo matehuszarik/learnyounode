@@ -1,6 +1,6 @@
 {
   "name": "learnyounode-hu",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.",
   "author": "Rod Vagg <rod@vagg.org> (https://github.com/rvagg)",
   "contributors": [
@@ -70,8 +70,8 @@
     "through": "^2.3.8",
     "through2": "^2.0.1",
     "through2-map": "^3.0.0",
-    "workshopper-adventure-hu": "^1.0.0",
-    "workshopper-exercise": "^3.0.1",
+    "workshopper-adventure-hu": "^1.0.1",
+    "workshopper-exercise-hu": "^1.0.0",
     "workshopper-wrappedexec": "~0.1.1"
   },
   "devDependencies": {

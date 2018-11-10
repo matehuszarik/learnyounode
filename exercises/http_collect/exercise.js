@@ -1,8 +1,8 @@
 var http = require('http')
-var exercise = require('workshopper-exercise')()
-var filecheck = require('workshopper-exercise/filecheck')
-var execute = require('workshopper-exercise/execute')
-var comparestdout = require('workshopper-exercise/comparestdout')
+var exercise = require('workshopper-exercise-hu')()
+var filecheck = require('workshopper-exercise-hu/filecheck')
+var execute = require('workshopper-exercise-hu/execute')
+var comparestdout = require('workshopper-exercise-hu/comparestdout')
 
 var words = require('boganipsum')({ paragraphs: 2, sentenceMax: 1 }).split(' ')
 
