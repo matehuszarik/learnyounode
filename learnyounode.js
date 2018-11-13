@@ -1,10 +1,10 @@
 const learnyounode = require('workshopper-adventure-hu')({
   appDir: __dirname,
   languages: ['hu', 'en', 'es', 'fr', 'ja', 'zh-cn', 'zh-tw', 'pt-br', 'ru', 'uk', 'vi', 'ko', 'nb-no', 'it'],
-  header: require('workshopper-adventure/default/header'),
-  footer: require('workshopper-adventure/default/footer'),
-  fail: require('workshopper-adventure/default/fail'),
-  pass: require('workshopper-adventure/default/pass')
+  header: require('workshopper-adventure-hu/default/header'),
+  footer: require('workshopper-adventure-hu/default/footer'),
+  fail: require('workshopper-adventure-hu/default/fail'),
+  pass: require('workshopper-adventure-hu/default/pass')
 })
 
 learnyounode.addAll([
